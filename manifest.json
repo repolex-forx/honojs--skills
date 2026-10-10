@@ -1,0 +1,24 @@
+{
+  "manifest_version": "1.0",
+  "org": "honojs",
+  "repo": "skills",
+  "versions": [
+    {
+      "commit": "5becff424255f5d1ec1b4f7b93b6f3480e55783b",
+      "parsed_at": "2026-10-10T07:33:48.327123+00:00",
+      "filetree": "filetree/5becff424255f5d1ec1b4f7b93b6f3480e55783b.nq.gz",
+      "blobs": [
+        "blob/3ea45410e4c6aa25660e0ed86daf065345667c09.nq.gz",
+        "blob/1ac9ea5a3bb6866ae462cdb3fa74c182c3e3a0ab.nq.gz",
+        "blob/4cd88fc81912a1510ec16c07e059faf7e364e2c6.nq.gz",
+        "blob/f5e64bae8d00cf00065b52636e3d2986672d66d8.nq.gz",
+        "blob/161ad30574baca9d7afad02306c9af8d2e789d1e.nq.gz",
+        "blob/829147be4d9a8222abe51995b9338a581a19639f.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
